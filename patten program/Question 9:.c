@@ -10,7 +10,8 @@ Question 9:
                          
     first loop for print row
     second loop for print space (space -row)
-    third loop for print *_(_ means space)
+    third loop for print * 
+            condition :((2*i)-1)
 *******************************************************************************/
 #include <stdio.h>
 
